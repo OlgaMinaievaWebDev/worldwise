@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -25,15 +13,39 @@
       "id": "17806751"
     },
     {
-      "id": "8c53",
-      "cityName": "Waite Park",
+      "id": "639e",
+      "cityName": "Smithfield",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "2024-06-23T17:56:06.782Z",
+      "date": "2024-06-23T17:59:16.045Z",
       "notes": "",
       "position": {
-        "lat": "45.537136680398596",
-        "lng": "-94.2626953125"
+        "lat": "40.245991504199026",
+        "lng": "-80.77148437500001"
+      }
+    },
+    {
+      "id": "2871",
+      "cityName": "North Billings, North Dakota",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-23T17:59:21.805Z",
+      "notes": "",
+      "position": {
+        "lat": "46.98025235521883",
+        "lng": "-103.18359375000001"
+      }
+    },
+    {
+      "id": "4d39",
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-06-23T18:01:34.600Z",
+      "notes": "",
+      "position": {
+        "lat": "50.44351305245807",
+        "lng": "30.585937500000004"
       }
     }
   ]
