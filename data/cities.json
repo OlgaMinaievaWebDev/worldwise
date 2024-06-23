@@ -23,6 +23,18 @@
         "lng": -3.7133789062500004
       },
       "id": "17806751"
+    },
+    {
+      "id": "8c53",
+      "cityName": "Waite Park",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-23T17:56:06.782Z",
+      "notes": "",
+      "position": {
+        "lat": "45.537136680398596",
+        "lng": "-94.2626953125"
+      }
     }
   ]
 }
